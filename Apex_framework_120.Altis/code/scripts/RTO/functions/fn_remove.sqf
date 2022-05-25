@@ -1,0 +1,1 @@
+RTO_ObjList deleteAt (RTO_ObjList find _this);

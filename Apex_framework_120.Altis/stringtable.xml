@@ -1,0 +1,228 @@
+<!
+File: stringtable.xml
+Author:
+	
+	Quiksilver
+
+Last Modified:
+
+	3/01/2018 A3 1.80 by Quiksilver
+	
+Description:
+
+	https://community.bistudio.com/wiki/Stringtable.xml
+_____________________________________________________________>
+
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Apex Framework">
+	<Key ID="STR_QS_Interact_Drag">
+		<Original>Drag</Original>
+		<German>Ziehen</German>
+		<French>Drag</French>
+		<spanish>Arrastrar</spanish>
+		<Chinese>拖累</Chinese>
+		<Czech>Drag</Czech>
+		<Russian>бремя</Russian>
+	</Key>
+	<Key ID="STR_QS_Interact_Carry">
+		<Original>Carry</Original>
+		<German>Tragen</German>
+		<French>Carry</French>
+		<Chinese>进</Chinese>
+		<spanish>Cargar</spanish>
+		<Czech>Nést</Czech>
+		<Russian>нести</Russian>
+	</Key>
+</Project> 
+
+<Package name="ZeroAinzLoadOut">   
+            <Key ID="zlo_service_name">
+				<Original>Service</Original>
+				<English>Service</English>
+				<spanish>Servicio de Rearmado</spanish>
+				<Italian>Servizio</Italian>
+				<Russian>Cервис</Russian>
+			</Key>
+			<Key ID="zlo_apply_text">
+				<Original>Apply</Original>
+				<English>Apply</English>
+				<Italian>Aplica</Italian>
+				<spanish>Aplicar</spanish>
+				<Russian>Применить</Russian>
+			</Key>
+			<Key ID="zlo_change_skin_text">
+				<Original>Change skin :</Original>
+				<English>Change skin :</English>
+				<Italian>Cambia skin :</Italian>
+				<spanish>Pintura</spanish>	
+				<Russian>Сменить скин :</Russian>
+			</Key>
+			<Key ID="zlo_ammo_text">
+				<Original>Rearm</Original>
+				<English>Rearm</English>
+				<Italian>Riarmo</Italian>
+				<spanish>Rearmar</spanish>
+				<Russian>   Пополнить БК</Russian>
+			</Key>
+			<Key ID="zlo_refuel_text">
+				<Original>Refuel</Original>
+				<English>Refuel</English>
+				<Italian>Pieno</Italian>
+				<spanish>Repostar</spanish>
+				<Russian>Заправить</Russian>
+			</Key>
+			<Key ID="zlo_repair_text">
+				<Original>Repair</Original>
+				<English>Repair</English>
+				<Italian>Riparare</Italian>
+				<spanish>Reparar</spanish>
+				<Russian>Починить</Russian>
+			</Key>
+			<Key ID="zlo_preset_text">
+				<Original>Preset :</Original>
+				<English>Preset :</English>
+				<Italian>Predefiniti :</Italian>
+				<spanish>Programar :</spanish>
+				<Russian>Готовый набор :</Russian>
+			</Key>
+			<Key ID="zlo_mirror_text">
+				<Original>Mirror</Original>
+				<English>Mirror</English>
+				<Italian>Spechio</Italian>
+				<spanish>Espejo</spanish>
+				<Russian>Отзеркалить</Russian>
+			</Key>
+			<Key ID="zlo_windowName_text">
+				<Original>Vehicle loadout</Original>
+				<English>Vehicle loadout</English>
+				<Italian>Manutenzione e rifornimento veicolo</Italian>
+				<spanish>Mantenimiento y recarga de vehículos.</spanish>
+				<Russian>Обслуживание техники</Russian>
+			</Key>
+			<Key ID="zlo_fuel_text">
+				<Original>Fuel</Original>
+				<English>Fuel</English>
+				<Italian>Serbatoio</Italian>
+				<spanish>Combustible</spanish>
+				<Russian>Топливо</Russian>
+			</Key>
+			<Key ID="zlo_damage_text">
+				<Original>Damage</Original>
+				<English>Damage</English>
+				<Italian>Danno</Italian>
+				<spanish>Daño</spanish>
+				<Russian>Урон</Russian>
+			</Key>
+			<Key ID="zlo_empty_text">
+				<Original>Empty</Original>
+				<English>Empty</English>
+				<Italian>Vuoto</Italian>
+				<spanish>Vacío</spanish>
+				<Russian>Пустой</Russian>
+			</Key>
+			<Key ID="zlo_camo_empty_text">
+				<Original>Default</Original>
+				<English>Default</English>
+				<Italian>Predefinita</Italian>
+				<spanish>Predefinido</spanish>
+				<Russian>Дефолт</Russian>
+			</Key>
+			<Key ID="zlo_spresets_text">
+				<Original>Presets</Original>
+				<English>Presets</English>
+				<Italian>Presets</Italian>
+				<spanish>Preajustes</spanish>
+				<Russian>Наборы</Russian>
+			</Key>
+			<Key ID="zlo_save_text">
+				<Original>Save</Original>
+				<English>Save</English>
+				<Italian>Salva</Italian>
+				<spanish>Guardar</spanish>
+				<Russian>Сохр.</Russian>
+			</Key>
+			<Key ID="zlo_load_text">
+				<Original>Load</Original>
+				<English>Load</English>
+				<Italian>Apri</Italian>
+				<spanish>Cargar</spanish>
+				<Russian>Загрузить</Russian>
+			</Key>
+			<Key ID="zlo_delete_text">
+				<Original>Delete</Original>
+				<English>Delete</English>
+				<Italian>Cancella</Italian>
+				<spanish>Borrar</spanish>
+				<Russian>Удалить</Russian>
+			</Key>
+			<Key ID="zlo_emptyspace_text">
+				<Original>Write the name before saving</Original>
+				<English>Write the name before saving</English>
+				<Italian>Scrivere il nome prima</Italian>
+				<spanish>Escribe el nombre antes de guardar</spanish>
+				<Russian>Напишите имя в поле</Russian>
+			</Key>
+			<Key ID="zlo_pres1_text">
+				<Original>Preset</Original>
+				<English>Preset</English>
+				<Italian>Preset</Italian>
+				<spanish>Preajustes</spanish>
+				<Russian>Набор</Russian>
+			</Key>
+			<Key ID="zlo_pres2_text">
+				<Original>was deleted!</Original>
+				<English>was deleted!</English>
+				<Italian>è stato cancellato!</Italian>
+				<spanish>¡fué borrado!</spanish>
+				<Russian>был удалён!</Russian>
+			</Key>
+			<Key ID="zlo_exitesc_text">
+				<Original>LoadOut was canceled</Original>
+				<English>LoadOut was canceled</English>
+				<Italian>La Manutenzione è anullata</Italian>
+				<spanish>Mantenimiento Cancelado</spanish>
+				<Russian>Техническое обслуживание отменено</Russian>
+			</Key>
+			<Key ID="zlo_presetloaded_text">
+				<Original>Selected preset was loaded</Original>
+				<English>Selected preset was loaded</English>
+				<Italian>Il preset scelto è stato caricato</Italian>
+				<spanish>El Preajuste seleccionado fue cargado</spanish>
+				<Russian>Выбранный набор загружен</Russian>
+			</Key>
+			<Key ID="zlo_saved_text">
+				<Original>was saved</Original>
+				<English>was saved</English>
+				<Italian>è stato salvato</Italian>
+				<spanish>fue Guardado</spanish>
+				<Russian>был сохранён</Russian>
+			</Key>
+			<Key ID="zlo_wait_text">
+				<Original>Time left for LoadOut</Original>
+				<English>Time left for LoadOut</English>
+				<Italian>Tempo rimasto per la manutenzione</Italian>
+				<spanish>Tiempo restante para los Preajustes</spanish>
+				<Russian>Время ожидания до окончания обслуживания</Russian>
+			</Key>
+			<Key ID="zlo_sec_text">
+				<Original>sec.</Original>
+				<English>sec.</English>
+				<Italian>sec.</Italian>
+				<spanish>Segundos</spanish>
+				<Russian>Сек.</Russian>
+			</Key>
+			<Key ID="zlo_serviceeeady_text">
+				<Original>Vehicle is Ready</Original>
+				<English>Vehicle is Ready</English>
+				<Italian>La Manutenzione è finita</Italian>
+				<spanish>El vehículo está listo!</spanish>
+				<Russian>Техническое обслуживание завершено</Russian>
+			</Key>
+			<Key ID="zlo_helptext_text">
+				<Original>Info</Original>
+				<English>Info</English>
+				<Italian>Info</Italian>
+				<spanish>Información</spanish>
+				<Russian>Справка</Russian>
+			</Key>
+</Package>
